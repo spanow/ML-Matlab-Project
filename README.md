@@ -1,3 +1,3 @@
 # Machine Learning Project:
 
-Please read the report
+Please read the report (PDF)
